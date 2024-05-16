@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "expess": "^0.0.1-security",
+    "express": "^4.19.2"
+  },
+  "name": "full-backend",
+  "version": "1.0.0",
+  "description": "hoc ve backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "react"
+  ],
+  "author": "MC",
+  "license": "ISC"
+}
